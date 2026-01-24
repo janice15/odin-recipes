@@ -1,1 +1,1 @@
-# odin-recipes
+The purpose of this repo is to learn the basics of HTML by building a recipe app that will link to a few pages
